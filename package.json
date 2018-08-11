@@ -17,7 +17,6 @@
   "author": "David Basarab",
   "license": "ISC",
   "bin": {
-    "fatcat": "./index.js",
     "task": "./main.js"
   },
   "bugs": {
