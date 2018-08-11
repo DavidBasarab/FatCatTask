@@ -18,7 +18,7 @@
   "license": "ISC",
   "bin": {
     "fatcat": "./index.js",
-    "task": "./other.js"
+    "task": "./main.js"
   },
   "bugs": {
     "url": "https://github.com/DavidBasarab/FatCatTask/issues"
