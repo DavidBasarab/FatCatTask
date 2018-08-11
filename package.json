@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/DavidBasarab/FatCatTask/issues"
   },
-  "homepage": "https://github.com/DavidBasarab/FatCatTask#readme"
+  "homepage": "https://github.com/DavidBasarab/FatCatTask#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
