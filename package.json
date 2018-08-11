@@ -16,6 +16,9 @@
   ],
   "author": "David Basarab",
   "license": "ISC",
+  "bin": {
+    "fatcat": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/DavidBasarab/FatCatTask/issues"
   },
