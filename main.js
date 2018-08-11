@@ -2,7 +2,7 @@
 
 'use strict';
 
-const playing = require('./lib/playingWithClass');
+const playing = require('./lib/playingWithChalk');
 
 function printArgs() {
     // print process.argv
